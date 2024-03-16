@@ -95,7 +95,7 @@ figure {
       padding-top: 4em; } }
   #colorlib-aside .author-img {
     width: 150px;
-    height: 150px;
+    height: 50px; 
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -401,8 +401,7 @@ body.offcanvas {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
-  top: 50px; }
+  position: relative;}
 
 .colorlib-heading {
   font-size: 18px;
