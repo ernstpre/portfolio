@@ -319,10 +319,11 @@ figure {
               font-size: 30px; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner s
 .colorlib-lead {
-          font-size: 40px;
+          font-size: 20px;
           color: #fff; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner p {
-          margin-bottom: 0; }
+          margin-bottom: 0; 
+          font-size: 60px;}
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
           font-size: 12px;
           text-transform: uppercase;
