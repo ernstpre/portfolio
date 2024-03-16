@@ -95,7 +95,7 @@ figure {
       padding-top: 4em; } }
   #colorlib-aside .author-img {
     width: 150px;
-    height: 50px; 
+    height: 150px; 
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -105,7 +105,7 @@ figure {
   #colorlib-aside .position {
     display: block;
     margin-bottom: 2em;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase; }
   #colorlib-aside #colorlib-logo {
     text-align: right;
@@ -135,7 +135,7 @@ figure {
         margin: 0 0 10px 0;
         padding: 0;
         list-style: none;
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 500;
         text-transform: uppercase;
         letter-spacing: 1px; }
